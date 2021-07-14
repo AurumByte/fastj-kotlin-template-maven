@@ -1,4 +1,4 @@
-# FastJ Java Template Program
+# FastJ Kotlin Template Program
 
 ## Requirements
 - Java 16 JDK
