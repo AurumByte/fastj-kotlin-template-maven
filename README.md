@@ -2,7 +2,7 @@
 
 ## Requirements
 - Java 16 JDK
-- Basic understanding of Java
+- Basic understanding of Kotlin
 
 
 ## Initial Setup
