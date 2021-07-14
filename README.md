@@ -24,7 +24,7 @@ You have a few options for getting the template:
 1. Clone the repository via terminal: `git clone https://github.com/AurumByte/fastj-java-template-maven`
 
 #### Downloading the latest release
-Download the archive (.zip file, or tar.gz file) from https://github.com/AurumByte/fastj-java-template-maven/releases/latest
+Download the archive (.zip file, or tar.gz file) from https://github.com/AurumByte/fastj-kotlin-template-maven/releases/latest
 
 1. Build the program:
     ```bash
